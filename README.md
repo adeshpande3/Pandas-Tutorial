@@ -4,7 +4,7 @@ I've been working with Pandas quite a bit lately, and figured I'd make a short s
 
 Hopefully it's helpful for you!
 
-# Lot's of Other Great Tutorials
+# Lots of Other Great Tutorials
 * http://pandas.pydata.org/pandas-docs/stable/10min.html
 * https://www.datacamp.com/community/tutorials/pandas-tutorial-dataframe-python
 * http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/
